@@ -1,10 +1,10 @@
 {
-  "latestVersion": "0.0.217.2",
+  "latestVersion": "0.0.217.3",
   "latestVersionCode": 10,
-  "url": "https://github.com/BorhnN/DesiKaraokeReleases/releases/download/0.1.217.1/app-debug.apk",
+  "url": "https://github.com/BorhnN/DesiKaraokeReleases/releases",
   "releaseNotes": [
-    "- First evolution",
-    "- Second evolution",
+    "- Tempo, Scale now working",
+    "- Supports notification for update",
     "- Bug fixes"
   ]
 }
